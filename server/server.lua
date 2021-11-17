@@ -1,5 +1,5 @@
 local nuidev = {
-    ['default'] = '', --Paste Your WebHook URl
+    ['default'] = 'https://discord.com/api/webhooks/', --Paste Your WebHook URl
     ['testwebhook'] = '',
     ['playermoney'] = '',
     ['playerinventory'] = '',
