@@ -37,7 +37,7 @@ local nuidev = {
     ['palert'] = '',
 }
 
-local Colors = { -- spycolor.com
+local Colors = { 
     ['default'] = 14423100,
     ['blue'] = 255,
     ['red'] = 16711680,
